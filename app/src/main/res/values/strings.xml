@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HasanTanich</string>
+    <string name="username">username</string>
+    <string name="createbtn">CREATE ACCOUNT</string>
+    <string name="or">OR</string>
+    <string name="loginbtn">LOGIN</string>
+    <string name="passwordhint">password</string>
+    <string name="name">Enter Name</string>
+    <string name="surname">Enter Surname</string>
+    <string name="birthYear">Enter Birth Year</string>
+    <string name="registerbtn">REGISTER</string>
+    <string name="home_login_btn">Login</string>
+    <string name="add_task_btn">Add</string>
+    <string name="taskTracker_title">Task Tracker</string>
+    <string name="delete_task">Delete</string>
+    <string name="task_title" />
+    <string name="task_date" />
+    <string name="taskTitle">Enter Task Title</string>
+    <string name="taskDate">Enter Task Date</string>
+    <string name="CancelButton">Cancel</string>
+    <string name="saveButton">SAVE</string>
+    <string name="update_task" >Update</string>
+</resources>
